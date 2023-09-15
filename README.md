@@ -1,5 +1,5 @@
 # UXWizz public-files
-Files that can be downloaded by the dashboard.
+Files that can be downloaded by the https://www.uxwizz.com dashboard.
 
 ## Geolocation
 
